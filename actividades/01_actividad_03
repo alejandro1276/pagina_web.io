@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>VS</title>
+  </head>
+   <center>
+  <body bgcolor="#3BAA7E">
+    <h1 style="color: #DA4627"> "COMPARATIVO DE SISTEMAS OPERATIVOS"</h1>
+    <a href="index.html"align="left"><h1><P>Inicio</P></h1></a>
+
+<a href="https://www.youtube.com/watch?v=OtPY-yMLpwA" target="_blank"><img src="vs.jpg"width="200" height="200"></a>
+<h1>Click en la imagen para ver documental </h1>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=Tr4DmyjDXes" target="_blank"><img src="codigo.jpg"width="200" height="200"></a>
+<h1>Click en la imagen para ver pelicula </h1>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=Gl3a9fAJ4OQ" target="_blank"><img src="linux.jpg"width="200" height="200"></a>
+<h1>Click en la imagen para ver documental </h1>
+<br>
+<br>
+<a href="https://cuevana3.pe/3412/ella" target="_blank"><img src="ELLA.jpg"width="200" height="200"></a>
+<h1>Click en la imagen para ver documental </h1>
+</center>
+
+<br>
+<br>
+<br>
+<br>
+    
+  </body>
+</html>
